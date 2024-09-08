@@ -1,29 +1,24 @@
 const experienceData = [
   {
-    title: 'Data Engineering Intern',
-    company: 'Accenture',
-    location: 'Ahmedabad, India',
-    range: 'January 2022 - May 2022',
-    url: 'https://www.accenture.com/gr-en/about/consulting-index',
+    title: 'Co-Founder/Lead Software Engineer',
+    company: 'WD Studios',
+    location: 'Georgia, United States of America',
+    range: 'January 2022 - Current',
+    url: 'https://wdstudios.tech',
     text1:
-      'Helped with the digital transformation of BOAT by working on their platform called ByteETL.',
-    text2:
-      'Built the encryption component for the platform using Scala and Spark which included 2 encoding functionalities : ENCRYPT and HASH.',
+      'Helped with building out the internal infrastructure of the company, (e.g. Website, Backend, Internal Tech)',
+    text2: 'Assisted with the development of Blackspace, WD Studios Internal Game Engine.',
     text3:
-      'Created JSON wrappers for the encryption components and automated and triggered the pipelines to run at specific intervals using CronJob.',
+      'Created & Started ApertureUI, a middleware which allows users to render their Game UI with Web Technology (e.g. HTML or XML, JavaScript, Lua, or any language that the developer requires, and CSS)',
   },
   {
-    title: 'Software Engineer Analytics',
-    company: 'HOPS Healthcare',
-    location: 'Ahmedabad, India',
-    range: 'March 2021 - June 2021',
-    url: 'https://hops.healthcare/',
+    title: 'Software Engineer',
+    company: 'Adastral Group',
+    location: 'Remote',
+    range: 'March 2022 - June 2022',
+    url: 'https://adastral.net/',
     text1:
-      'Guided by Mr. Vivek Patel, to create a pipeline that extracts essential information from informal conversations.',
-    text2:
-      'Worked on creating a web app for their healthcare system for doctors to analyze and save reports.',
-    text3:
-      'Developed functions for automatically extracting important elements from reports using BioBERT and Regex.',
+      'Assisted with building the foundation of the project (e.g. Godot to C++ Bindings, BuildSystem, GUI)',
   },
 ]
 

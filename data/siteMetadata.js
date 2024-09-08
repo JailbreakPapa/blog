@@ -1,21 +1,21 @@
 const siteMetadata = {
-  title: 'Blog | Parth Desai',
-  author: 'Parth Desai',
+  title: 'Blog | Mikael Aboagye (Scrumpy)',
+  author: 'Mikael Aboagye',
   headerTitle: 'Mere Musings',
   description: 'My personal blog where I share my musings',
-  snippets: 'Reuseable code snippets collected by Parth',
+  snippets: 'Reuseable code snippets collected by Mikael Aboagye',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://musing.vercel.app',
-  siteRepo: 'https://github.com/pycoder2000/blog',
+  siteUrl: 'https://scrumpysfindings.tech',
+  siteRepo: 'https://github.com/JailbreakPapa/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'desaiparth2000@gmail.com',
-  github: 'https://github.com/pycoder2000',
-  twitter: 'https://twitter.com/_ParthDesai_',
-  linkedin: 'https://www.linkedin.com/in/parth-desai-2bb1b0160/',
-  website: 'https://parthdesai.vercel.app',
+  email: 'mike.amanfo12@gmail.com',
+  github: 'https://github.com/JailbreakPapa',
+  twitter: 'https://twitter.com/WDStudiosLLC',
+  linkedin: 'https://www.linkedin.com/in/mikael-aboagye-77215225b/',
+  website: 'https://scrumpysfindings.tech',
   locale: 'en-US',
   analytics: {
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
@@ -46,7 +46,7 @@ const siteMetadata = {
     },
   },
   socialAccount: {
-    twitter: '_ParthDesai_',
+    twitter: 'WDStudiosLLC',
   },
 }
 
