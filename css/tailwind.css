@@ -42,7 +42,7 @@
   }
 
   .company {
-    box-shadow: inset 0 0 0 0 #de1d8d;
+    box-shadow: inset 0 0 0 0 #0d66cc;
     color: #de1d8d;
     margin: 0 -0.25rem;
     padding: 0 0.25rem;
@@ -71,5 +71,5 @@ input:-webkit-autofill:focus {
   background: #de1d8d;
 }
 ::selection {
-  background: #de1d8d;
+  background: #1d77de;
 }
